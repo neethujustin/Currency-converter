@@ -1,0 +1,21 @@
+select{
+    width:200px;
+    display: inline-block;
+}
+.main-section{
+    margin: 0 auto;
+    width: 600px;
+    padding: 20px;
+    background: gray;
+
+}
+
+td{
+    margin-right: 21px;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+}
+.currency-text{
+    margin-right: 22px;width:200px;display:inline-block
+}

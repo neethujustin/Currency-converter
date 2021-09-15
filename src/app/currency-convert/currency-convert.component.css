@@ -1,0 +1,16 @@
+select{
+    width:200px;
+    display: inline-block;
+}
+.main-section{
+    margin: 0 auto;
+    width: 600px;
+    padding: 20px;
+    background: gray;
+
+}
+.currency-text{
+    margin-right: 22px;
+    width:200px;
+    display:inline-block
+}
